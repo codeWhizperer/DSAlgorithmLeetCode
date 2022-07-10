@@ -15,3 +15,16 @@ Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
 */
 
+
+const runningSumArray = (num:number[]) =>{
+let total =0;
+let result = [];
+
+for(let i=0; i < num.length; i++){
+    total = total +=num[i]
+    result.push(total)
+}
+return total;
+}
+
+console.log(runningSumArray([1,2,3,4,5,6,7,8,9,10]))
