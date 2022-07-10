@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/Adegbite1999/DSAlgorithmLeetCode.git",
   "author": "Adegbite Ademola <Adegbiteademola1999@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "typescript": "^4.7.4"
+  }
 }
