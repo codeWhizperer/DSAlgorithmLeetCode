@@ -1,0 +1,9 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "LeetCode Algorithm",
+  "main": "index.js",
+  "repository": "https://github.com/Adegbite1999/DSAlgorithmLeetCode.git",
+  "author": "Adegbite Ademola <Adegbiteademola1999@gmail.com>",
+  "license": "MIT"
+}
